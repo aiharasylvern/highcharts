@@ -21,7 +21,7 @@ Instead of downloading, you can use our CDN to access files directly. See [code.
 ```
 
 ### Install from npm
-See [npm documentation](https://docs.npmjs.com/) on how to get started with npm.
+See [npm documentation](https://docs.npmjs.com/) on how to get started with npm install. 
 ```
 npm install --save highcharts
 ```
